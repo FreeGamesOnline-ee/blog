@@ -1,0 +1,9 @@
+title: FreeGamesOnline.ee
+author: FreeGamesOnline.ee, contributors
+description: The official FreeGamesOnline.ee blog.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+sass:
+  style: compressed
