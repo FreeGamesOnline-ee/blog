@@ -7,3 +7,5 @@ plugins:
   - jekyll-feed
 sass:
   style: compressed
+include:
+  - assets
